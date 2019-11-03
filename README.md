@@ -4,3 +4,5 @@
 * Sanders
 * Snippets
 * TMN
+
+* NBA (used in the analysis of tweets sentences)
